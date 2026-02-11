@@ -25,3 +25,7 @@ button {
     cursor: pointer;
     margin-top: 20px;
 }
+
+a {
+    text-decoration: none;
+}
